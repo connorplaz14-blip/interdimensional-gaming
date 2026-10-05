@@ -1,0 +1,28 @@
+{
+  "SkyCraft v0.1.2": {
+    "release": "https://github.com/chasmlol/SkyCraft/releases/tag/v0.1.2",
+    "main_asset": "https://github.com/chasmlol/SkyCraft/releases/download/v0.1.2/SkyCraft-0.1.2.zip",
+    "sha256": "1133ecde384d70d5261cbc9ba149bc7b544e1653b78846a1623b56241bb392c3",
+    "size_bytes": 25111237,
+    "published": "2026-10-01T01:37:22Z",
+    "local_downloaded": false,
+    "download_blocker": "This runtime cannot retrieve GitHub release binary bytes; shell DNS is unavailable and the GitHub connector is text-only for repository binaries."
+  },
+  "2010 Rust Rewrite Mashup v0.4.0": {
+    "release": "https://github.com/chasmlol/2010-rust-rewrite-mashup/releases/tag/v0.4.0",
+    "main_asset": "https://github.com/chasmlol/2010-rust-rewrite-mashup/releases/download/v0.4.0/2010-Rust-Rewrite-Mashup-windows-x64.zip",
+    "sha256": "f7c02cfb4dd5650be29762947a0b17d3e6f9b9f1259025ee89a99bd031e1ebca",
+    "size_bytes": 70231384,
+    "published": "2026-10-02T02:28:19Z",
+    "local_downloaded": false,
+    "download_blocker": "This runtime cannot retrieve GitHub release binary bytes; shell DNS is unavailable and the GitHub connector is text-only for repository binaries."
+  },
+  "Universal Modder repository teaser": {
+    "repo_path": "https://github.com/rehan-remade/universal-modder/blob/main/docs/media/teaser.gif",
+    "git_blob_sha": "0278c3ccdc84446da852d2a6127678d5ec184e88",
+    "size_bytes": 2545648,
+    "repo_license": "MIT",
+    "local_downloaded": false,
+    "download_blocker": "GitHub connector confirmed the binary but does not return binary file bytes; raw URL could not be fetched through the web cache."
+  }
+}

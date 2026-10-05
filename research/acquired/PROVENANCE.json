@@ -1,0 +1,39 @@
+{
+  "acquired_date": "2026-10-05",
+  "repository": "https://github.com/rehan-remade/universal-modder",
+  "commit": "0f5dcdfdcd8ed420f8413815bd6647586ab894a2",
+  "source_path": "docs/media/mods-teaser.gif",
+  "git_blob_sha": "e96469d855fbcfd395432a902d6e54a1f4370ea3",
+  "sha256": "5ef69b0378fa729140deaeaf585bbc4c8ebf5d742cc80ca3646b4b1f60ffcf8e",
+  "size_bytes": 6370843,
+  "original_duration_seconds": 12.17,
+  "licence_source": "https://github.com/rehan-remade/universal-modder/blob/0f5dcdfdcd8ed420f8413815bd6647586ab894a2/LICENSE",
+  "usage_basis": "MIT root licence for this associated repository documentation media; no separate media licence/exclusion found in the source tree. This is not a claim that every external recording or publisher asset has the same licence.",
+  "inspection": "Contact sheet visually confirmed GTA V with Minecraft, Halo Warthog inside Minecraft, and World at War weapons/zombies inside Minecraft.",
+  "exports": [
+    {
+      "file": "/clips/minecraft-gta-v.mp4",
+      "start_seconds": 0,
+      "end_seconds": 5,
+      "changes": "trimmed and transcoded to muted H.264; source branding retained",
+      "sha256": "289e58b4dbea64c82f97cffe344479e65ef088f98ce7155e982b334d92a7a221",
+      "bytes": 1578774
+    },
+    {
+      "file": "/clips/halo-minecraft.mp4",
+      "start_seconds": 5,
+      "end_seconds": 7,
+      "changes": "trimmed and transcoded to muted H.264; source branding retained",
+      "sha256": "c3996b26ddb6fde6d6254d43a348dd88bd9643e46fae1c7028248e488e88dc53",
+      "bytes": 688443
+    },
+    {
+      "file": "/clips/world-at-war-minecraft.mp4",
+      "start_seconds": 7,
+      "end_seconds": 10,
+      "changes": "trimmed and transcoded to muted H.264; source branding retained",
+      "sha256": "a8cc4771a32121eaaacede2ce39722c2e1fe1b2e09b2d9b15a66c9cec181842f",
+      "bytes": 922343
+    }
+  ]
+}

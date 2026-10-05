@@ -1,0 +1,12 @@
+{
+  "snapshot_date": "2026-10-04",
+  "green_footage_seconds_acquired": 0,
+  "green_footage_hms": "00:00:00",
+  "yellow_reference_assets": 12,
+  "red_reference_assets": 3,
+  "target_self_capture_seconds": 1860,
+  "target_self_capture_minutes": 31.0,
+  "master_generated": false,
+  "web_muted_generated": false,
+  "condition_reached": "B"
+}

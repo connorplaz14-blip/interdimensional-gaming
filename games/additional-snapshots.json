@@ -1,0 +1,42 @@
+[
+  {
+    "project": "libertycraft",
+    "repository": "https://github.com/mrborghini/libertycraft",
+    "commit": "aa216d7209f075bb917630d7726f1e7ffec3b001",
+    "archive": "games/source-archives/libertycraft-aa216d72.tar.gz",
+    "sha256": "5521afb12afa0caee9b016f9aaf41d6865e80922508f7a80d1f0c2e78ba6538e",
+    "bytes": 1296366,
+    "excluded": []
+  },
+  {
+    "project": "minecraft-crossover-bridge",
+    "repository": "https://github.com/justbustin/minecraft-crossover-bridge",
+    "commit": "d1723873ec8f370389cf19f74fac455b9e581321",
+    "archive": "games/source-archives/minecraft-crossover-bridge-d1723873.tar.gz",
+    "sha256": "385769ed9f3f1983ae3db257a72df6be5f236cda07cf4b5ecc9da6ebd74c6092",
+    "bytes": 411162,
+    "excluded": []
+  },
+  {
+    "project": "doom-minecraft",
+    "repository": "https://github.com/Patbox/nucledoom",
+    "commit": "717b9df95d0ae0fc0e8593d91e61a1d7587618e4",
+    "archive": "games/source-archives/doom-minecraft-717b9df9.tar.gz",
+    "sha256": "1fa7cd72b73d5ede513490dc7c4f8b4370ef1a89be766cd690907b9ed2351991",
+    "bytes": 2374553,
+    "excluded": [
+      "nucledoom-717b9df95d0ae0fc0e8593d91e61a1d7587618e4/src/main/resources/data/nucledoom/wads/doomshareware/doom1.wad",
+      "nucledoom-717b9df95d0ae0fc0e8593d91e61a1d7587618e4/src/main/resources/data/nucledoom/wads/freedoom/freedoom1.wad",
+      "nucledoom-717b9df95d0ae0fc0e8593d91e61a1d7587618e4/src/main/resources/data/nucledoom/wads/freedoom/freedoom2.wad"
+    ]
+  },
+  {
+    "project": "doom-hytale",
+    "repository": "https://github.com/ssquadteam/DoomMaps",
+    "commit": "2e782ad476d9c5b8698d81b2f09ababdd1adc37d",
+    "archive": "games/source-archives/doom-hytale-2e782ad4.tar.gz",
+    "sha256": "29a6bbef539f7dd2ba884c545d69c59fe904e6889a8d84f2865748e6e267db5a",
+    "bytes": 788112,
+    "excluded": []
+  }
+]

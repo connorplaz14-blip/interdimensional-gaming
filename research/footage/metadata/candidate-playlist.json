@@ -1,0 +1,72 @@
+[
+  {
+    "order": 1,
+    "combination": "Minecraft × Skyrim",
+    "source": "self-capture SkyCraft v0.1.2",
+    "target_seconds": 240,
+    "status": "capture-needed"
+  },
+  {
+    "order": 2,
+    "combination": "Minecraft × GTA V",
+    "source": "self-capture Universal Modder passthrough",
+    "target_seconds": 240,
+    "status": "capture-needed"
+  },
+  {
+    "order": 3,
+    "combination": "Minecraft × Modern Warfare 2",
+    "source": "self-capture 2010 mashup v0.4.0",
+    "target_seconds": 180,
+    "status": "capture-needed"
+  },
+  {
+    "order": 4,
+    "combination": "Skate 3 × Modern Warfare 2",
+    "source": "self-capture 2010 mashup v0.4.0",
+    "target_seconds": 180,
+    "status": "capture-needed"
+  },
+  {
+    "order": 5,
+    "combination": "Minecraft × Skate 3 × Modern Warfare 2",
+    "source": "self-capture 2010 mashup v0.4.0",
+    "target_seconds": 180,
+    "status": "capture-needed"
+  },
+  {
+    "order": 6,
+    "combination": "Minecraft × GTA IV",
+    "source": "self-capture LibertyCraft",
+    "target_seconds": 240,
+    "status": "capture-needed"
+  },
+  {
+    "order": 7,
+    "combination": "Minecraft × Elden Ring",
+    "source": "self-capture minecraft-crossover-bridge OR creator-approved Tobyn master",
+    "target_seconds": 180,
+    "status": "capture-needed / permission alternative"
+  },
+  {
+    "order": 8,
+    "combination": "Minecraft × Monster Hunter: World",
+    "source": "self-capture minecraft-crossover-bridge",
+    "target_seconds": 180,
+    "status": "capture-needed"
+  },
+  {
+    "order": 9,
+    "combination": "Doom × Minecraft",
+    "source": "self-capture NucleDoom using Freedoom/shareware content",
+    "target_seconds": 120,
+    "status": "capture-needed"
+  },
+  {
+    "order": 10,
+    "combination": "Doom × Hytale",
+    "source": "self-capture DoomMaps using shareware content",
+    "target_seconds": 120,
+    "status": "capture-needed"
+  }
+]
