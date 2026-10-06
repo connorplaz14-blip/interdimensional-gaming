@@ -1,5 +1,7 @@
 # Acquisition Log — 2026-10-04
 
+> **Historical notes — 4 October 2026.** This page describes an earlier research pass, not the current feed or catalogue. See the [research overview](../../README.md) for current records.
+
 ## Performed
 
 - Read all three supplied INTER DIMENSIONAL GAMING research reports first.

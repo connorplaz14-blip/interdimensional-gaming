@@ -78,5 +78,51 @@
       "universal-modder-0f5dcdfdcd8ed420f8413815bd6647586ab894a2/docs/media/badges/license.png"
     ],
     "members": 472
+  },
+  {
+    "archive": "games/source-archives/killcraft-ce05bae4.tar.gz",
+    "sha256": "587760968accb78960b62df91dfc89ac16f69376f84aa219c747212d90fe9944",
+    "bytes": 82702,
+    "upstream_root": "Killcraft-ce05bae49a32a3a6c93b7f33acae73d2be05de15",
+    "licence_notice_files": [
+      "Killcraft-ce05bae49a32a3a6c93b7f33acae73d2be05de15/LICENSE"
+    ],
+    "members": 25,
+    "repository": "https://github.com/goonsn/Killcraft",
+    "commit": "ce05bae49a32a3a6c93b7f33acae73d2be05de15",
+    "collected_on": "2026-10-06",
+    "excluded": []
+  },
+  {
+    "archive": "games/source-archives/minecraft-ring-ffb31b55.tar.gz",
+    "sha256": "448ccc44bf9500fb79da2aa24a9fab9b0ed9a9de0047b0ce25f3dc58cdcc0812",
+    "bytes": 471423,
+    "upstream_root": "Minecraft-Ring-ffb31b559470575cdf09f28c696b382dd7605cd0",
+    "licence_notice_files": [
+      "Minecraft-Ring-ffb31b559470575cdf09f28c696b382dd7605cd0/LICENSE",
+      "Minecraft-Ring-ffb31b559470575cdf09f28c696b382dd7605cd0/THIRD_PARTY_NOTICES.md",
+      "Minecraft-Ring-ffb31b559470575cdf09f28c696b382dd7605cd0/bridge-base/LICENSE",
+      "Minecraft-Ring-ffb31b559470575cdf09f28c696b382dd7605cd0/bridge-base/elden-ring/er-bridge/third_party/minhook/LICENSE.txt"
+    ],
+    "members": 267,
+    "repository": "https://github.com/siddoff/Minecraft-Ring",
+    "commit": "ffb31b559470575cdf09f28c696b382dd7605cd0",
+    "collected_on": "2026-10-06",
+    "excluded": []
+  },
+  {
+    "archive": "games/source-archives/owcraft-cd5f0613.tar.gz",
+    "sha256": "259be0d593d3be9be39c2374102a3d30ff2d018bbe397d49cbac88028b6ad07c",
+    "bytes": 82792,
+    "upstream_root": "OWCraft-cd5f0613e1de04c537e7db28a5813b0329cfbfa9",
+    "licence_notice_files": [
+      "OWCraft-cd5f0613e1de04c537e7db28a5813b0329cfbfa9/LICENSE",
+      "OWCraft-cd5f0613e1de04c537e7db28a5813b0329cfbfa9/THIRD-PARTY-NOTICES.md"
+    ],
+    "members": 39,
+    "repository": "https://github.com/Yaekai/OWCraft",
+    "commit": "cd5f0613e1de04c537e7db28a5813b0329cfbfa9",
+    "collected_on": "2026-10-06",
+    "excluded": []
   }
 ]

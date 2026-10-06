@@ -1,5 +1,7 @@
 # GREEN Capture Plan — 30+ Minute Target
 
+> **Historical notes — 4 October 2026.** This page describes an earlier research pass, not the current feed or catalogue. See the [research overview](../README.md) for current records.
+
 Current locally acquired GREEN gameplay: **0:00**.
 
 This plan reaches **31:00** without relying on ripped social video, using ten distinct combinations. “GREEN after capture” means the recording itself is ours and the underlying project has a documented usable path; normal publisher/game/platform terms still need to be respected.

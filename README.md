@@ -1,37 +1,75 @@
 # INTERDIMENSIONAL GAMING
 
-The public source and research archive for experiments that connect videogames through passthrough modding, shared simulation and engine rewrites.
+### Your favourite games, in the wrong universe.
 
-This is one umbrella project. The CRT broadcast website is maintained separately in a private repository. This public archive contains game-mod source snapshots, original project links, creator attribution and footage provenance. Each upstream project retains its own licence and notices; no commercial game installation is supplied.
+Build a Minecraft house in Skyrim. Take a skateboard through a Call of Duty map. Bring Mario to an Elden Ring boss fight.
 
-## Game source archive
+INTERDIMENSIONAL GAMING collects the mods and experiments that make those ridiculous combinations possible. This is the public companion to our CRT television website: discover the games behind the footage, find their original creators, and see what you can actually try.
 
-All projects remain under the single INTERDIMENSIONAL GAMING umbrella.
+**You don't need to know how to code to look around.** Start with the games below.
 
-The archives in `games/source-archives/` are pinned snapshots of upstream repositories, with their original source, licence files and notices retained. They are not commercial game installations. Extract each archive to read or build it; follow its own README for requirements. No upstream code was executed or built during collection.
+[Browse the games](#pick-your-universe) · [How to try one](START-HERE.md) · [Meet the creators](CREDITS.md) · [Suggest a mashup](CONTRIBUTING.md)
 
-| Snapshot | Original project | Creator | Licence |
-| --- | --- | --- | --- |
-| `skycraft-bfcaf178.tar.gz` | [SkyCraft](https://github.com/chasmlol/SkyCraft) | chasmlol | MIT |
-| `mw2-skate-minecraft-f608f85e.tar.gz` | [2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) | chasmlol; IW4L originally by vladtrc | Apache-2.0; bundled fonts retain their own licences |
-| `universal-modder-0f5dcdfd.tar.gz` | [Universal Modder](https://github.com/rehan-remade/universal-modder) | Rehan Sheikh and contributors | MIT |
-| `libertycraft-aa216d72.tar.gz` | [LibertyCraft](https://github.com/mrborghini/libertycraft) | mrborghini and contributors | MIT; upstream third-party notices retained |
-| `minecraft-crossover-bridge-d1723873.tar.gz` | [Minecraft crossover bridge](https://github.com/justbustin/minecraft-crossover-bridge) | justbustin | MIT; MinHook notices retained |
-| `doom-minecraft-717b9df9.tar.gz` | [NucleDoom](https://github.com/Patbox/nucledoom) | Patbox and contributors | LGPL-3.0 for code/non-WAD assets; see upstream licence exclusions |
-| `doom-hytale-2e782ad4.tar.gz` | [DoomMaps](https://github.com/ssquadteam/DoomMaps) | ssquadteam | GPL-3.0 |
+![Universal Modder gameplay teaser: Minecraft meets GTA V, Halo and World at War](research/acquired/universal-modder-mods-teaser.gif)
 
-NucleDoom's WAD files were omitted from our snapshot. Obtain game content according to its own licence and the upstream setup instructions. The omitted paths and archive checksums are recorded in `games/additional-snapshots.json`.
+*Gameplay teaser by Rehan Sheikh and the Universal Modder contributors. [Original project](https://github.com/rehan-remade/universal-modder) · [Footage credits](CREDITS.md#the-tv-feed)*
 
-These sources cover Skyrim, GTA V, GTA IV, Elden Ring, Monster Hunter: World, MW2/Skate, Doom/Minecraft and Doom/Hytale. Universal Modder also documents Halo and World at War crossover demonstrations. Other viral examples remain research references until an attributable source project is established.
+## Pick your universe
 
-## Footage credits
+Some connect two running games. Others bring one game's movement, maps or mechanics into another. The result is what we're here for: familiar games doing things they weren't built to do.
 
-The initial broadcast uses three excerpts of Universal Modder's repository documentation teaser: **Minecraft × GTA V**, **Halo × Minecraft**, and **Call of Duty: World at War × Minecraft**.
+### The original collection
 
-**Creator:** Rehan Sheikh / rehan-remade and Universal Modder contributors. [Original teaser](https://github.com/rehan-remade/universal-modder/blob/0f5dcdfdcd8ed420f8413815bd6647586ab894a2/docs/media/mods-teaser.gif). The original branding is retained, and its MIT notice is included in `research/acquired/`. Exact source commit, original and export checksums, cuts and transformations are recorded in [PROVENANCE.json](research/acquired/PROVENANCE.json).
+| Mashup | What's the idea? | Start here |
+| --- | --- | --- |
+| **Minecraft × Skyrim** | Minecraft building, movement and combat in Skyrim's world. | [SkyCraft](games/README.md#minecraft--skyrim) |
+| **Minecraft × GTA V** | Blocks, mobs and Minecraft chaos in Los Santos. | [Universal Modder](games/README.md#minecraft--gta-v) |
+| **Skate 3 × MW2 × Minecraft** | Skate through a Modern Warfare 2 map, or switch to a Minecraft world. | [2010 Mashup](games/README.md#skate-3--modern-warfare-2--minecraft) |
+| **Minecraft × GTA IV** | Minecraft gameplay in Liberty City. | [LibertyCraft](games/README.md#minecraft--gta-iv) |
+| **Minecraft × Elden Ring** | Build and explore across the Lands Between. | [Original bridge and Windows adaptation](games/README.md#minecraft--elden-ring) |
+| **Minecraft × Monster Hunter: World** | Minecraft gameplay meets Monster Hunter's world. | [Crossover bridge](games/README.md#minecraft--monster-hunter-world) |
+| **DOOM × Minecraft** | Play DOOM without leaving Minecraft. | [NucleDoom](games/README.md#doom--minecraft) |
+| **DOOM × Hytale** | Play DOOM on Hytale's in-game map display. | [DoomMaps](games/README.md#doom--hytale) |
 
-The original acquisition research under `research/footage/` is a dated snapshot. Current collected footage is recorded under `research/acquired/`; old zero-acquisition statements do not describe this later update.
+The TV teaser also features **Halo × Minecraft** and **World at War × Minecraft**. Those are documented demonstrations, not separate ready-to-install games in this collection.
 
-## Corrections and removal
+### More worlds to break
 
-[Open an issue](https://github.com/connorplaz14-blip/interdimensional-gaming/issues/new) with the source/clip name, requested correction and original creator link.
+Added after checking the original projects on **6 October 2026**.
+
+| Mashup | What's the idea? | Start here |
+| --- | --- | --- |
+| **Minecraft × Valheim** | Build with blocks in a Viking world, then bring Minecraft weapons to its creatures. | [ValCraft — download available](games/README.md#minecraft--valheim) |
+| **Minecraft × Fallout 4** | Build a blocky base in the Commonwealth and fight raiders with Minecraft gear. | [FalloutCraft — download available](games/README.md#minecraft--fallout-4) |
+| **Minecraft × Outer Wilds** | Land on a planet, step out of your ship, and start building. | [OWCraft — download available](games/README.md#minecraft--outer-wilds) |
+| **Minecraft × ULTRAKILL** | Take swords, shields, TNT and blocks through ULTRAKILL's levels. | [Killcraft — download available](games/README.md#minecraft--ultrakill) |
+| **Skate 3 × Garry's Mod** | Skate on Garry's Mod maps, with friends, tricks and a park editor. | [SkateGM — download available](games/README.md#skate-3--garrys-mod) |
+| **Mario 64 × Elden Ring** | Triple-jump, wall-kick and ground-pound through the Lands Between. | [ER Mario — download available](games/README.md#mario-64--elden-ring) |
+| **Skate 3 × Bully** | Jimmy gets Skate 3 physics to ride around Bullworth. | [BullySkate — download available](games/README.md#skate-3--bully) |
+| **Skate 3 × GTA San Andreas** | CJ gets a proper Skate-style board, tricks and grinds. | [GTA San AnSkateas — download available](games/README.md#skate-3--gta-san-andreas) |
+
+**One to follow:** [SubCraft — Minecraft × Subnautica](games/README.md#minecraft--subnautica). It's still in early development, not a finished download.
+
+“Download available” means the creator provides files to install. It doesn't mean one-click setup, that we've play-tested it, or that it works on every PC. The [game guide](games/README.md) explains the basics.
+
+## Want to play?
+
+Start with [the beginner guide](START-HERE.md). You usually need your own copies of the games, the right versions, and a few mods. Most of the additions above target Windows.
+
+Use the creator's download and instructions rather than GitHub's green **Code** button. That button downloads the project files, which often aren't ready to play.
+
+## What's in this repo?
+
+| Where to go | What you'll find |
+| --- | --- |
+| [Game guide](games/README.md) | What each mashup does, who made it, and how to get started. |
+| [Beginner guide](START-HERE.md) | Downloads, mod setup and unfamiliar words explained. |
+| [Creator credits](CREDITS.md) | The people behind the games and the TV footage. |
+| [Source archive](games/SOURCE-ARCHIVE.md) | Saved copies of selected projects for people who want to explore the code. |
+| [Research](research/README.md) | Evidence, footage records and older research notes. |
+
+We curate this collection; the original creators built the mods. Listing a project isn't a claim that its creator supports our coin or is part of our team. The website code stays in a separate private repo.
+
+## Found something we should see?
+
+Send us a [game suggestion](CONTRIBUTING.md), or [report a correction](https://github.com/connorplaz14-blip/interdimensional-gaming/issues/new). A creator link and a clear demo are a great start. If you're a featured creator and want a credit changed or a clip removed, use the same link and tell us which one.

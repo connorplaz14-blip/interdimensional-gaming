@@ -1,0 +1,142 @@
+{
+  "checked_on": "2026-10-06",
+  "method": "Reviewed original GitHub README, repository metadata and latest release listing; no code executed or play-test performed.",
+  "discovery_source": "https://github.com/bailo167/awesome-game-mashups",
+  "projects": [
+    {
+      "repository": "https://github.com/LoAlCo/ValCraft",
+      "commit": "cf1b4fcfc34fb5231762296a99be936b1b065505",
+      "readme": "https://github.com/LoAlCo/ValCraft/blob/cf1b4fcfc34fb5231762296a99be936b1b065505/README.md",
+      "license_detected": null,
+      "latest_release": {
+        "tag": "v0.6.2",
+        "url": "https://github.com/LoAlCo/ValCraft/releases/tag/v0.6.2",
+        "assets": [
+          "LoAlCo-ValCraft-0.6.2.zip",
+          "valcraft-fabric-0.6.2.jar",
+          "ValCraft-Installer-0.6.2.exe"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/zeyvu/FalloutCraft",
+      "commit": "cbe85e89f781cfb1db819d13fe8af7656ec12204",
+      "readme": "https://github.com/zeyvu/FalloutCraft/blob/cbe85e89f781cfb1db819d13fe8af7656ec12204/README.md",
+      "license_detected": "MIT",
+      "latest_release": {
+        "tag": "v0.1.3",
+        "url": "https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3",
+        "assets": [
+          "commonlibf4-template.dll",
+          "FalloutCraft-0.1.3-FO4.zip",
+          "falloutcraft-0.1.3.jar",
+          "falloutcraft-neoforge-0.1.3+1.21.1.jar"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/Yaekai/OWCraft",
+      "commit": "cd5f0613e1de04c537e7db28a5813b0329cfbfa9",
+      "readme": "https://github.com/Yaekai/OWCraft/blob/cd5f0613e1de04c537e7db28a5813b0329cfbfa9/README.md",
+      "license_detected": "MIT",
+      "latest_release": {
+        "tag": "v0.1.1",
+        "url": "https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1",
+        "assets": [
+          "skycraft-0.1.2+owcraft.5.jar",
+          "Yaekai.OWCraft-0.1.1.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/goonsn/Killcraft",
+      "commit": "ce05bae49a32a3a6c93b7f33acae73d2be05de15",
+      "readme": "https://github.com/goonsn/Killcraft/blob/ce05bae49a32a3a6c93b7f33acae73d2be05de15/README.md",
+      "license_detected": "MIT",
+      "latest_release": {
+        "tag": "v0.1.6",
+        "url": "https://github.com/goonsn/Killcraft/releases/tag/v0.1.6",
+        "assets": [
+          "Killcraft-0.1.6.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/the-schwilliam/SkateGM",
+      "commit": "d392028e8581c74e003d5966f6826c144791f0bf",
+      "readme": "https://github.com/the-schwilliam/SkateGM/blob/d392028e8581c74e003d5966f6826c144791f0bf/README.md",
+      "license_detected": "NOASSERTION",
+      "latest_release": {
+        "tag": "7.01",
+        "url": "https://github.com/the-schwilliam/SkateGM/releases/tag/7.01",
+        "assets": [
+          "SkateGM-Setup-7.01.exe",
+          "skategm_7.01.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/deltarooo/er-mario",
+      "commit": "9286e7b9b191be1259878d523bd295e938aa5b83",
+      "readme": "https://github.com/deltarooo/er-mario/blob/9286e7b9b191be1259878d523bd295e938aa5b83/README.md",
+      "license_detected": "MIT",
+      "latest_release": {
+        "tag": "v0.4.0",
+        "url": "https://github.com/deltarooo/er-mario/releases/tag/v0.4.0",
+        "assets": [
+          "ER-Mario-0.4.0.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/Faiqie/BullySkate",
+      "commit": "761c8def656b54481fa4bbbefba4156dd6300d34",
+      "readme": "https://github.com/Faiqie/BullySkate/blob/761c8def656b54481fa4bbbefba4156dd6300d34/README.md",
+      "license_detected": "NOASSERTION",
+      "latest_release": {
+        "tag": "v0.1.2",
+        "url": "https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2",
+        "assets": [
+          "BullySkate-Windows-v0.1.2.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/ryglizzy/GTA-San-AnSkateas",
+      "commit": "fde499b2acb6a54d790337a8e46cde326504a797",
+      "readme": "https://github.com/ryglizzy/GTA-San-AnSkateas/blob/fde499b2acb6a54d790337a8e46cde326504a797/README.md",
+      "license_detected": null,
+      "latest_release": {
+        "tag": "v1.1",
+        "url": "https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.1",
+        "assets": [
+          "GTA-San-Anskateas-v1.1.zip"
+        ]
+      },
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/FumperForrest/SubCraft",
+      "commit": "26a936d73e723e2e611666ef80b2d9a980cb1292",
+      "readme": "https://github.com/FumperForrest/SubCraft/blob/26a936d73e723e2e611666ef80b2d9a980cb1292/README.md",
+      "license_detected": "MIT",
+      "latest_release": null,
+      "play_tested": false
+    },
+    {
+      "repository": "https://github.com/siddoff/Minecraft-Ring",
+      "commit": "ffb31b559470575cdf09f28c696b382dd7605cd0",
+      "readme": "https://github.com/siddoff/Minecraft-Ring/blob/ffb31b559470575cdf09f28c696b382dd7605cd0/README.md",
+      "license_detected": "MIT",
+      "latest_release": null,
+      "play_tested": false
+    }
+  ]
+}

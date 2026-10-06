@@ -1,5 +1,7 @@
 # Permission Needed — INTER DIMENSIONAL GAMING
 
+> **Historical notes — 4 October 2026.** This page describes an earlier research pass, not the current feed or catalogue. See the [research overview](../README.md) for current records.
+
 This file lists strong footage that is **not approved for download/edit/self-host use yet**. Public availability is not treated as permission.
 
 ## Priority contacts
